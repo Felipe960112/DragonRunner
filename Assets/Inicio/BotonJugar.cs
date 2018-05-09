@@ -15,6 +15,6 @@ public class BotonJugar : MonoBehaviour {
 
     public void cambiarEscena ()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Nivel1");
     }
 }
