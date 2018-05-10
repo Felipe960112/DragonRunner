@@ -4,7 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Fire
+  - Coin
+  - Enemy1
+  - Muerte
   layers:
   - Default
   - TransparentFX
